@@ -8,8 +8,8 @@ This workshop covers essential skills for modern web development using popular t
 - 🗃️ Databases & SQL
 - 💡 Full-Stack Development Concepts
 
-## 📚 Topics (to be organized)
+## 📚 Topics
 
-This repository includes notes, exercises, and examples from the sessions.
+This repository includes examples from the sessions.
 
 Stay tuned for structured content soon!
